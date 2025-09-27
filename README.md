@@ -5,6 +5,7 @@ Hello everyone! I want to get along well (^_^)
 ## who
 
 I'm Jpanese & live in Japan. I'm studying computer science at NIT Ibaraki college.   
+I'm very interested in agritech especially agricultural informatics. For those involved, if you like contact me.  
 
 ## skills
 
@@ -12,7 +13,7 @@ I'm Jpanese & live in Japan. I'm studying computer science at NIT Ibaraki colleg
 
 ### learning　_φ(･_･
 
-- [x] C/C++
+- [x] C
 - [x] markdown
 - [x] Flutter, Dart
 - [x] computer architectures
@@ -22,6 +23,7 @@ I'm Jpanese & live in Japan. I'm studying computer science at NIT Ibaraki colleg
 - [x] ethics
 - [ ] Python
 - [x] data structure & algorithm
+- [x] discrete mathematics
 
 <details>
 <summary>See more</summary>  
