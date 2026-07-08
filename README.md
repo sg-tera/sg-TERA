@@ -11,6 +11,9 @@ I'm very interested in IoT systems especially edge-host architecture, agritech a
 
 [![My Skills](https://skillicons.dev/icons?i=c,md,flutter,dart,html,css,hdl)](https://skillicons.dev)
 
+<details>
+<summary>See more</summary>  
+
 ### learning　_φ(･_･
 
 - [x] C
@@ -29,9 +32,6 @@ I'm very interested in IoT systems especially edge-host architecture, agritech a
 - [ ] Prolog (SWI Prolog)
 - [ ] signal processing (FFT)
 - [ ] security
-
-<details>
-<summary>See more</summary>  
 
 ### Using OS environment  
  
