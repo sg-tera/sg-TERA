@@ -44,7 +44,18 @@ I'm very interested in IoT systems especially edge-host architecture, agritech a
   OS: Windows11, Linux (NOW: Fedora Cosmic Atomic)  
 - Laptop  
   M2 Macbook Air (2022)  
-  RAM: 8GB  
+  RAM: 8GB
+- Server  
+  CPU: Core i7 1185G7 (intel evo Platform)  
+  RAM: 16GB  
+  LAN: 2.5Gbps  
+  OS: Proxmox VE
+  - debian VM  
+  - LXC  
+- Phone  
+  - motorola edge 60 pro  
+  - SONY XPERIA 10 mark3 Lite  
+  - HUAWEI P30 Lite  
 
 thankyou for watching! ✨️   
 </details>
