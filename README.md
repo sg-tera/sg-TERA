@@ -4,8 +4,14 @@ Hello everyone! I want to get along well (^_^)
 
 ## who
 
-I'm Jpanese & live in Japan. I'm studying computer science at NIT Ibaraki college.   
-I'm very interested in IoT systems especially edge-host architecture, agritech and civil engineering. For those involved, if you like contact me.  
+I'm Japanese & live in Japan. I'm studying computer science at NIT Ibaraki college.   
+I'm very interested in IoT systems especially edge-host architecture, agritech and civil engineering (DX).  
+For those involved, if you like contact me.  
+
+## presentations
+
+WIPY: 独自通信フォーマットKICoHを用いた既存黒板に後付け可能な自律型清掃ロボット  
+情報処理学会 インタラクション2026論文集 2026年3月 : Proceedings of IPSJ Interaction 2026, Mar 5, 2026
 
 ## skills
 
