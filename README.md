@@ -5,7 +5,7 @@ Hello everyone! I want to get along well (^_^)
 ## who
 
 I'm Jpanese & live in Japan. I'm studying computer science at NIT Ibaraki college.   
-I'm very interested in agritech especially agricultural informatics. For those involved, if you like contact me.  
+I'm very interested in IoT systems especially edge-host architecture, agritech and civil engineering. For those involved, if you like contact me.  
 
 ## skills
 
@@ -14,23 +14,37 @@ I'm very interested in agritech especially agricultural informatics. For those i
 ### learning　_φ(･_･
 
 - [x] C
-- [x] markdown
-- [x] Flutter, Dart
 - [x] computer architectures
 - [x] information theory
 - [x] logic circuit
 - [x] verilog
 - [x] ethics
-- [ ] Python
+- [x] Python
 - [x] data structure & algorithm
 - [x] discrete mathematics
+- [x] network
+- [x] OS
+- [x] language processing (compiler)
+- [ ] LISP
+- [ ] Prolog (SWI Prolog)
+- [ ] signal processing (FFT)
+- [ ] security
 
 <details>
 <summary>See more</summary>  
 
 ### Using OS environment  
  
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)
+
+- Main machine  
+  CPU: Ryzen 5 3600  
+  RAM: DDR4-2666 32GB  
+  GPU: Radeon RX5700XT  
+  OS: Windows11, Linux (NOW: Fedora Cosmic Atomic)  
+- Laptop  
+  M2 Macbook Air (2022)  
+  RAM: 8GB  
 
 thankyou for watching! ✨️   
 </details>
