@@ -1,10 +1,10 @@
 # sg-TERA's profile
 
-Hello everyone! I want to get along well (^_^) 
+Hello everyone! I want to get along well (^_^)
 
 ## who
 
-I'm Japanese & live in Japan. I'm studying computer science at NIT Ibaraki college.   
+I'm Japanese & live in Japan. I'm studying computer science at NIT Ibaraki college.
 I'm very interested in IoT systems especially edge-host architecture, agritech and civil engineering (DX).  
 For those involved, if you like contact me.  
 
@@ -40,7 +40,7 @@ WIPY: 独自通信フォーマットKICoHを用いた既存黒板に後付け可
 - [ ] security
 
 ### Using OS environment  
- 
+
 [![My Skills](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)
 
 - Main machine  
@@ -62,23 +62,6 @@ WIPY: 独自通信フォーマットKICoHを用いた既存黒板に後付け可
   - motorola edge 60 pro  
   - SONY XPERIA 10 mark3 Lite  
   - HUAWEI P30 Lite  
-
-thankyou for watching! ✨️   
-</details>
-
-<details>
-<summary>日本語版はこちら</summary>  
-## 勉強中の技術、科目
-
-- [x] C/C++
-- [x] markdown
-- [ ] Flutter, Dart
-- [x] コンピュータアーキテクチャ
-- [x] 情報理論
-- [x] 論理回路(ぜんぜんわからん)
-- [x] 情報倫理
-- [ ] Python
-- [x] data structure & algorithm
 
 thankyou for watching! ✨️
 </details>
