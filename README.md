@@ -17,8 +17,12 @@ WIPY: 独自通信フォーマットKICoHを用いた既存黒板に後付け可
 
 [![My Skills](https://skillicons.dev/icons?i=c,md,flutter,dart,html,css,hdl)](https://skillicons.dev)
 
+### IPA情報処理技術者試験
+
+- <b>基本情報技術者 (FE)</b>  
+
 <details>
-<summary>See more</summary>  
+<summary>see more contents</summary>  
 
 ### learning　_φ(･_･
 
