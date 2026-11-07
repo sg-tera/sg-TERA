@@ -5,7 +5,7 @@ Hello everyone! I want to get along well (^_^)
 ## who
 
 I'm Japanese & live in Japan. I'm studying computer science at NIT Ibaraki college.
-I'm very interested in IoT systems especially edge-host architecture, agritech and civil engineering (DX).  
+I'm very interested in IoT systems, Embedded dev env and HCI (UI/UX).
 For those involved, if you like contact me.  
 
 ## presentations
@@ -51,7 +51,7 @@ WIPY: 独自通信フォーマットKICoHを用いた既存黒板に後付け可
   CPU: Ryzen 5 3600  
   RAM: DDR4-2666 32GB  
   GPU: Radeon RX5700XT  
-  OS: Windows11, Linux (NOW: Fedora Cosmic Atomic)  
+  OS: Windows11, Linux (NOW: Fedora + Hyprland)  
 - Laptop  
   M2 Macbook Air (2022)  
   RAM: 8GB
@@ -65,7 +65,6 @@ WIPY: 独自通信フォーマットKICoHを用いた既存黒板に後付け可
 - Phone  
   - motorola edge 60 pro  
   - SONY XPERIA 10 mark3 Lite  
-  - HUAWEI P30 Lite  
 
 thankyou for watching! ✨️
 </details>
