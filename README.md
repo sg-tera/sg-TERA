@@ -4,8 +4,8 @@ Hello everyone! I want to get along well (^_^)
 
 ## who
 
-I'm Japanese & live in Japan. I'm studying computer science at NIT Ibaraki college.
-I'm very interested in IoT systems, Embedded dev env and HCI (UI/UX).
+I'm Japanese & live in Japan. I'm studying computer science at NIT Ibaraki college.  
+I'm very interested in IoT systems, Embedded dev env and HCI (UI/UX).  
 For those involved, if you like contact me.  
 
 ## presentations
